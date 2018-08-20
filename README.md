@@ -1,8 +1,8 @@
-#Bemacash Demo
+# Bemacash Demo
 
 Demonstração do sistema bemacash feito em Laravel e VueJs
 
-####Instalação:
+#### Instalação:
 
 > Instalar as dependências do projeto
 * composer install
